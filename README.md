@@ -30,10 +30,10 @@ Architecture: Microservices, Event-Driven Systems, Multi-Tenant SaaS
 ```
 
 ###  🚀 Featured Work
-## 🧩 Fastn UCL – Unified Command Layer
+#### 🧩 Fastn UCL – Unified Command Layer
 Built the foundational architecture for integrating 1000+ tools into AI agents with zero glue code.
 
-📦 Enterprise-scale AI agent frameworks with live memory, context stitching, and tool orchestration
+#### 📦 Enterprise-scale AI agent frameworks with live memory, context stitching, and tool orchestration
 
-⚙️ Developer tools for multi-tenant platforms, auth, and connector orchestration
+#### ⚙️ Developer tools for multi-tenant platforms, auth, and connector orchestration
 
