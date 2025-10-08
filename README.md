@@ -30,8 +30,10 @@ Architecture: Microservices, Event-Driven Systems, Multi-Tenant SaaS
 ```
 
 ###  🚀 Featured Work
-#### 🧩 Fastn UCL – Unified Command Layer
-Built the foundational architecture for integrating 1000+ tools into AI agents with zero glue code.
+#### 🧩 Scalable Systems & Platform Engineering
+##### * Built large-scale backend systems supporting high-traffic, multi-region operations — focusing on reliability, flexibility, and intelligent automation.
+##### * Designed and delivered distributed systems that enhanced scalability, observability, and performance across mission-critical services.
+##### * Developed intelligent infrastructure and automation frameworks powering smarter operations and real-time optimization across large networks.
 
 #### 📦 Enterprise-scale AI agent frameworks with live memory, context stitching, and tool orchestration
 
